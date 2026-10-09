@@ -1,0 +1,11 @@
+INSERT INTO usuarios (nombre, correo) VALUES ('Juan White', 'juan.white@correo.com');
+INSERT INTO usuarios (nombre, correo) VALUES ('Maria Lopez', 'maria.lopez@correo.com');
+INSERT INTO usuarios (nombre, correo) VALUES ('Carlos Hernandez', 'carlos.hernandez@correo.com');
+INSERT INTO usuarios (nombre, correo) VALUES ('Ana Martinez', 'ana.martinez@correo.com');
+INSERT INTO usuarios (nombre, correo) VALUES ('Luis Ramirez', 'luis.ramirez@correo.com');
+INSERT INTO usuarios (nombre, correo) VALUES ('Sofia Castillo', 'sofia.castillo@correo.com');
+INSERT INTO usuarios (nombre, correo) VALUES ('Diego Flores', 'diego.flores@correo.com');
+INSERT INTO usuarios (nombre, correo) VALUES ('Valeria Gomez', 'valeria.gomez@correo.com');
+INSERT INTO usuarios (nombre, correo) VALUES ('Jose Rivas', 'jose.rivas@correo.com');
+INSERT INTO usuarios (nombre, correo) VALUES ('Camila Mejia', 'camila.mejia@correo.com');
+COMMIT;
